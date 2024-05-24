@@ -2,5 +2,5 @@ Resolusi saya selama 2024
 - Konsisten belajar seminggu minimal 6 hari dan minimal 2 jam perhari (diluar jam kuliah)
 - Membuat portofolio responsive 
 - Belajar javascript & DOM
-- Belajar tailwind 
 - menguasai oop java
+- fokus belajar bahasa pemrograman javascript atau php
